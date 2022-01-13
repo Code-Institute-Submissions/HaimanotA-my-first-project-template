@@ -1,9 +1,44 @@
 
-
-    nav a{
+nav a{
         text-decoration: none;
         text-align:right;
         margin:2.5%;
+    }
+
+    #name{
+        font-size:xx-large;
+        margin:2.5%;
+    }
+
+
+div{
+    vertical-align:top;
+    display:inline-block;
+    padding:70px;
+    width:40%;
+    text-align:justify;
+            }
+
+    .first-image{
+        width:70%;
+        height:20%;
         }
 
-        
+    h3{
+        font-size:40px;
+        font-family:helvetica, 'sans-serif';
+        text-align: center;
+    }
+
+    p ul{
+        font-size:30px;
+        font-family:bookman, 'sans-serif';
+    }
+
+    #left-block{
+background-color: darkturquoise;
+}
+
+#right-block{
+    background-color: rgb(209, 104, 165);
+    }
