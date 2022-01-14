@@ -1,13 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
 
-nav a{
-        text-decoration: none;
-        text-align:right;
-        margin:2.5%;
+body {
+    margin:0;
+    background-color:whitesmoke;
+}
+
+
+header,nav{
+margin:0px;
+background-color: rgb(153, 145, 145);
+}
+
+
+#name{
+    font-size:xx-large;
+    font-family:cursive, monospace, 'sans-serif'; 
+    margin:2.5%;
     }
 
-    #name{
-        font-size:xx-large;
-        margin:2.5%;
+nav ul{
+    text-decoration: none;
+    text-align:right;
+    margin:2.5%;
+    text-transform: uppercase;
     }
 
 
@@ -28,6 +43,7 @@ div{
         font-size:40px;
         font-family:helvetica, 'sans-serif';
         text-align: center;
+        text-transform: capitalize;
     }
 
     p ul{
