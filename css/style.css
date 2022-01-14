@@ -5,26 +5,51 @@ body {
     background-color:whitesmoke;
 }
 
-
-header,nav{
-margin:0px;
-background-color: rgb(153, 145, 145);
+header{
+    background-color: seagreen;
+    padding: 20px;
 }
 
+.page-header{
+height: 30vh;
+}
+
+.text-left{text-align: left;}
+
+.center-aligned{text-align:center;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+
+header,nav{ margin:0px;
+}
 
 #name{
-    font-size:xx-large;
+    font-size: 5rem;
     font-family:cursive, monospace, 'sans-serif'; 
-    margin:2.5%;
+    margin-top: 15px;
     }
+
+#motto{
+    font-style: rgb(209, 104, 165);
+    font-size: 40px;
+    }
+
+ p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+ul{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        }
 
 nav ul{
     text-decoration: none;
-    text-align:right;
-    margin:2.5%;
-    text-transform: uppercase;
     }
 
+nav{
+    padding: 30rem;
+    }
 
 div{
     vertical-align:top;
@@ -46,15 +71,28 @@ div{
         text-transform: capitalize;
     }
 
-    p ul{
-        font-size:30px;
-        font-family:bookman, 'sans-serif';
+    p{
+        font-size:25px;
+        font-family:"Times New Roman", Times, serif;
+        letter-spacing: 10px;}
+
+
+    .font-style{
+        font-family:"Times New Roman", Times, serif;
+        letter-spacing: 10px;
     }
 
     #left-block{
-background-color: darkturquoise;
+background-color: seagreen;
 }
 
 #right-block{
-    background-color: rgb(209, 104, 165);
+    background-color:burlywood;
     }
+    
+footer{
+    background-color: seagreen;
+    padding: 20px;
+    text-align: center;
+}
+
