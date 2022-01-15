@@ -40,17 +40,24 @@ header,nav{ margin:0px;
     }
 
 ul{
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
         }
 
-nav ul{
-    text-decoration: none;
-    }
-
 nav{
-    padding: 30rem;
+    padding: 0;
+    font-size: 1.3em;
+    height:45px;
+    line-height:45px;
     }
 
+    li {
+        list-style-type:none;
+        }
+nav a{
+    text-decoration:none;
+    margin:2.5%;
+    }
+    
 div{
     vertical-align:top;
     display:inline-block;
@@ -92,7 +99,12 @@ background-color: seagreen;
     
 footer{
     background-color: seagreen;
-    padding: 20px;
-    text-align: center;
+    padding: 2em;
+    text-align:center;
+    margin:0;
 }
 
+footer a{
+margin:2.5%;
+font-size: 1.3em;
+}
