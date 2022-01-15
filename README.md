@@ -42,7 +42,10 @@ The list of pioneers in the navigation bar contains only one person. In the futu
 ## Testing
 
 **Validator Testing**
-
+HTML
+No errors or warning were shown when running the code on W3C validator. 
+CSS
+No errors were found when running the code on W3C validator (jigsaw). 
 
 **Unfixed bug**
 
