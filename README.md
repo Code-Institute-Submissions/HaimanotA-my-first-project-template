@@ -1,3 +1,4 @@
+<img width="1440" alt="perf jpg" src="https://user-images.githubusercontent.com/97442846/149639239-a281dbba-4055-4fe7-866a-23dcf38d135f.png">
 ## The Pioneers
 
 The pioneers is a website which aims to provide the biography of world changing inventors. The website mainly targets the young generation, in order to make them motivated, inspired  and encouraged by reading the real life stories of remarkable and successful people. 
@@ -67,3 +68,7 @@ The quick facts was taken from (https://www.entrepreneur.com/article/287422)
 **Media**
 The images were taken from wikipedia.
 The video was taken from wikipedia as well.
+
+**performance**
+<img width="1440" alt="perf jpg" src="https://user-images.githubusercontent.com/97442846/149639267-2b358b1d-b62f-4245-81e5-a4a0fe95e40d.png">
+
