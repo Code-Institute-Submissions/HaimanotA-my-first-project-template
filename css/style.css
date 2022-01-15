@@ -21,7 +21,7 @@ height: 30vh;
     padding: 1rem;
 }
 
-header,nav{ margin:0px;
+header,nav{margin:0px;
 }
 
 #name{
@@ -69,6 +69,7 @@ div{
     .first-image{
         width:70%;
         height:20%;
+    
         }
 
     h3{
