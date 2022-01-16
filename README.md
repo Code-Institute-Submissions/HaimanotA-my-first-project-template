@@ -70,7 +70,6 @@ The images were taken from wikipedia.
 The video was taken from wikipedia as well.
 
 **performance**![1readme]
-(https://user-images.githubusercontent.com/97442846/149657285-827c0a6c-7d98-4a5a-8857-ad4bc3a787de.png)
 
-
+![1readme](https://user-images.githubusercontent.com/97442846/149657335-b11fffee-37ea-4488-91fb-83fc96ba843e.png)
 
