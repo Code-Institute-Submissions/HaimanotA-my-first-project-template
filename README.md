@@ -69,6 +69,8 @@ The quick facts was taken from (https://www.entrepreneur.com/article/287422)
 The images were taken from wikipedia.
 The video was taken from wikipedia as well.
 
-**performance**
-<img width="1440" alt="perf jpg" src="https://user-images.githubusercontent.com/97442846/149639267-2b358b1d-b62f-4245-81e5-a4a0fe95e40d.png">
+**performance**![1readme]
+(https://user-images.githubusercontent.com/97442846/149657285-827c0a6c-7d98-4a5a-8857-ad4bc3a787de.png)
+
+
 
